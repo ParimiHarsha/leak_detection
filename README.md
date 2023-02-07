@@ -24,8 +24,7 @@ This file contains the information to set up and run the ML models on Benchmarki
 3. Assign the path of the data folder to the the raw_path variable in the cell no. 2 of the notebook
 4. Run the cells in the given order
 
-Note: Local Notebooks are not upto date. They were primarily used in the initial testing phase of the project. They also take a 
-      lot of CPU memory and storage to run. Hence it is suggested to use the colab notebooks for replicating this work.
+Note: Local Notebooks are not upto date. They were primarily used in the initial testing phase of the project. They also take a lot of CPU memory and storage to run. Hence it is suggested to use the colab notebooks for replicating this work.
       
 # Contributions to the repo 
 - Any contributions to the repo are hightly encouraged
